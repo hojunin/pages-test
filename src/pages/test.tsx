@@ -29,7 +29,7 @@ export default function ProductPage({
   return (
     <ul className="flex flex-col">
       {initialData?.map((d) => (
-        <li>{d.title}</li>
+        <li key={d.id}>{d.title}</li>
       ))}
     </ul>
   );
