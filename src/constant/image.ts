@@ -1,0 +1,15 @@
+export const DUMMY_IMAGES = [
+  'https://i.pinimg.com/564x/44/02/c2/4402c277721e89347632189e55eb1c9b.jpg',
+  'https://i.pinimg.com/564x/76/1e/b8/761eb81535806ec7186fdf2abd6453ad.jpg',
+  'https://i.pinimg.com/564x/9e/76/09/9e76099e2effb0b77875b2358cbf862c.jpg',
+  'https://i.pinimg.com/564x/d9/f5/32/d9f532bc8fc9f385d1bba7588585fa9b.jpg',
+  'https://i.pinimg.com/564x/3f/c7/05/3fc705e80130886dc24d500ed5c3313e.jpg',
+  'https://i.pinimg.com/564x/4d/aa/16/4daa163ad2db866b389850066ea453a3.jpg',
+  'https://i.pinimg.com/736x/6b/5e/26/6b5e26cdd719fe19ac5882c4d586c7de.jpg',
+  'https://i.pinimg.com/564x/c3/ef/1c/c3ef1cd6b1131a06ec7b7bed2aa5a9ad.jpg',
+  'https://i.pinimg.com/564x/f1/6f/15/f16f15145e469758fd0cbf4c206b38fb.jpg',
+  'https://i.pinimg.com/564x/94/39/da/9439dafd05beeabbb583c134d4adb136.jpg',
+  'https://i.pinimg.com/564x/99/a8/b2/99a8b27e5e9f60ec51ceb26822b27ea9.jpg',
+  'https://i.pinimg.com/564x/42/14/fb/4214fb62c8eb69252226bc94cb141335.jpg',
+  'https://i.pinimg.com/564x/e1/40/bd/e140bdce2e4b0f1233485385929105fa.jpg',
+];

@@ -7,6 +7,18 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'i.pinimg.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'lnwblzacktgzeiihvxtu.supabase.co',
+      },
+    ],
+  },
 };
 
 export default nextConfig;
